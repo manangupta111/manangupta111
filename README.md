@@ -6,6 +6,9 @@
 
 <p align="center">I'm a student developer.<br/>I specialize in Python and Java.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=manangupta111&&style=flat-square" align="center" />
+</div>  
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
