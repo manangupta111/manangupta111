@@ -4,9 +4,8 @@
  src="https://user-images.githubusercontent.com/22797857/90096358-dba16400-dd54-11ea-8e44-e181ada72661.gif" width="40%"/></p>
 
 
-<p align="center">I'm a student developer.<br/>I specialize in Web-Development and Flutter.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
+<p align="center">I'm a student developer.<br/>I specialize in Python and Java.<br> I also love writing Tech-blogs, Graphic Design etc.<br></p><br/>
 
-<p align = "center"><a href="https://www.buymeacoffee.com/rahulmahesh62"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="rahulmahesh62" /></a></p><br><br>
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1453406830/264/success-kid.png?1453406830" align="center"
                 width="28" /> What I currently do</h2></summary>
